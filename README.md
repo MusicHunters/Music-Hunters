@@ -1,9 +1,9 @@
-# DeezLoader Remaster V4.0.3 final
+# Music Hunters V4.0.3 final
 
-DeezLoader Remaster is here to replace the old DeezLoader V2.3.1. and DeezLoader Reborn<br/>
+Music Hunters is  here to replace the old DeezLoader V2.3.1. , DeezLoader Remaster and DeezLoader Reborn with a beautiful UI<br/>
 With this software you can download high-qualiy music and enjoy.
 
-Source code - https://github.com/Deezloader/Deezloader<br/>
+
 
 Telegram Channel - https://t.me/joinchat/AAAAAFCRjRpUr-IF96RV3g
 
@@ -16,12 +16,6 @@ Telegram Channel - https://t.me/joinchat/AAAAAFCRjRpUr-IF96RV3g
 - Tagging system on MP3-320 and FLAC
 - Simple and user friendly
 
-# Donations
-- **BTC:** 3DVsShXt4GpPax6hSqatTFRJxM2VQ7jnpa
-- **BTH:** 1KqvH7E2e1amABmLVt1bM9q11TmaMeioed
-- **ETH:** 0x2140A5126aa2F85A4a98862E573A6214EA49325B
-- **Paypal:** ivandelabeldad@gmail.com
-
 # How to run
 - Download the installer and run it.
 - Run DeezLoader.
@@ -29,7 +23,7 @@ Telegram Channel - https://t.me/joinchat/AAAAAFCRjRpUr-IF96RV3g
 ## How to run on Android
 
 Installing DeezLoader on Android is a little bit complicated but easy.<br/>
-If you did installed DeezLoader and would like to just run it, go to step [5](https://github.com/Deezloader/DeezLoader-Reborn#5-run).
+If you did installed DeezLoader and would like to just run it, go to step [5](https://github.com/Deezloader/Music-hunters#5-run).
 
 ### How to update on Android
 
@@ -118,8 +112,8 @@ Version 4.0.3
 - Fixed playlist and Album downloader
 
 Version 4.0.2
-- Re-enable and fix API token 
- 
+- Re-enable and fix API token
+
 Version 4.0.1
 - Update regex to get user id
 - Disable invalid API token
