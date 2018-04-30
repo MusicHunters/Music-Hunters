@@ -1,0 +1,33 @@
+{
+	"license": "CC-BY-NC-SA-4.0",
+	"devDependencies": {
+		"electron": "latest",
+		"electron-builder": "latest"
+	},
+	"scripts": {
+		"start": "electron ./app",
+		"dist": "electron-builder --ia32 --x64",
+		"pack": "electron-builder --dir",
+		"postinstall": "electron-builder install-app-deps"
+	},
+	"build": {
+		"appId": "com.rackian.DeezLoaderRemaster",
+		"productName": "DeezLoader Remaster",
+		"copyright": "Copyright © 2018 Ivan de la Beldad",
+		"asar": false,
+		"win": {
+			"icon": "res/icon.ico"
+		},
+		"linux": {
+			"target": "AppImage"
+		},
+		"mac": {
+			"icon": "res/icon.icns"
+		},
+		"nsis": {
+			"oneClick": false,
+			"allowToChangeInstallationDirectory": true,
+			"installerLanguages": "en_US"
+		}
+	}
+}
